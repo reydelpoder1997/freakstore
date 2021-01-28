@@ -1,0 +1,12 @@
+<svg width="168" height="54" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="56" width="170" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="null" transform="matrix(1.179789114447871,0,0,1.0857143402099607,-9.959883481146605,-0.8142881393432617) " font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Montserrat Black'" font-size="32" id="svg_20" y="36" x="13" stroke-opacity="null" stroke-width="0" fill="#ffffff">Freak</text>
+  <text font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Montserrat Medium'" font-size="32" id="svg_21" y="38" x="92" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">Store</text>
+ </g>
+</svg>
